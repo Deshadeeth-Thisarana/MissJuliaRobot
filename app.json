@@ -1,29 +1,29 @@
 {
-  "name": "Rose bot",
+  "name": "NezukoID bot",
   "description": "A Telegram Group Management Bot",
-  "logo": "https://telegra.ph/file/49bcd722fe06a425b3673.jpg",
+  "logo": "https://telegra.ph/file/bcecc640c26dd9268941d.jpg",
   "keywords": ["telethon", "sqlalchemy", "mongodb"],
   "repository": "https://github.com/deshadeeth-thisrana/Rose.git",
   "success_url": "http://missjuliarobot.unaux.com",
   "env": {
     "API_KEY": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "8347814",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "",
+      "value": "f64349de208b132b905455179c9c19a1",
       "required": true
     },   
     "STRING_SESSION": {
       "description": "Get this value by running python3 session.py locally",
-      "value": "",
+      "value": "1BVtsOLwBu8LRpnQLTSoKUyoH7QbVG5QY-9S_jIg-Q0Xfq9_rFQFxQEF-QLocqGOZBmQx1NmFmYwhKWHB6Dy456oFNL1yMYCuh5mR_kraZJ6e2ErfqcHkarClpqlQ1Y38J2At9vSo6jiBOIOCPKHF-hVem_dLnsMInRUrb20QwgR7YwZJ86znzch1njAajWhGR13dv1gvqbIoiESV6RmSUaKOYzaqZzxQ2rpggFRHn0x1lYl3u9qrtichi3HddjVzJrxQktapUnNH0d-QwgTyRbBaFUdbYCqFok5wwivWFaiW_GAO9o6js1fa1xLZBVHF8ISRfp56L5taRygnxHk8t74Ns8T0yv0=",
       "required": true
     },
     "TOKEN": {
       "description": "Get your bot token from @BotFather",
-      "value": "",
+      "value": "2094691129:AAFkAs7xBZa4Xl2QkNBCQOBwHvZo4erD110",
       "required": true
     },
     "UPSTREAM_REPO_URL": {
